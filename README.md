@@ -4,6 +4,6 @@ This is an analysis and interpretation of an unsupervised learning problem based
 
 Various unsupervised machine learning algorithms were used such as PCA, Scree plots, Clustering, Dendrogram, and Boxplots to create clusters based on Survey Data, to be able to determine solid recommendations to the marketing departments in the industry relating to mobile app.
 
-See survey questions and Python file for n in-depth executive summary and insights derived from the analysis.
+See survey questions and Python file for an in-depth executive summary and insights derived from the analysis.
 
  
